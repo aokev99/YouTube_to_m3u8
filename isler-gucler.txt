@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-isler gucler | | | |
+beIN SPORTS HABER | | | |
 https://www.youtube.com/c/beINSPORTSTürkiye/live
